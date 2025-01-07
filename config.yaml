@@ -1,0 +1,8 @@
+# PDFのファイルパスとキーワードのリスト
+pdf_files:
+  - path: "ai_resources/original_sun_tzu_art_of_war_contents.pdf"
+    keyword: "## No."
+  - path: "ai_resources/rank_information.pdf"
+    keyword: "## セクション"
+  - path:  "ai_resources/fighting_game_rules_settings.pdf"
+    keyword: "## セクション"
